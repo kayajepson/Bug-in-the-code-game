@@ -2,6 +2,8 @@
 
 #### By _**Katlin Anderson, Kaya Jepson, Justin Kerntz, Colton Lacey**_
 
+![game image](/img/bugCode.png)
+
 ## Description
 
 https://knbanderson.github.io/werewolf-clone/
